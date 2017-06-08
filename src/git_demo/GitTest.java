@@ -7,6 +7,7 @@ public class GitTest {
 		
 		System.out.println("this is a git test");
 		System.out.println("this is a git test2");
+		System.out.println("this is a git test3");
 	}
 	
 }
